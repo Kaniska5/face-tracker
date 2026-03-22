@@ -1,0 +1,10 @@
+{
+  "detection_skip_frames": 5,
+  "similarity_threshold": 0.55,
+  "stability_frames": 1,
+  "video_folder": "/content/drive/MyDrive/Video Datasets",
+  "db_path": "/content/face_tracker/visitors.db",
+  "log_dir": "/content/face_tracker/logs",
+  "exit_timeout_frames": 30,
+  "rtsp_url": ""
+}
