@@ -6,7 +6,7 @@ An AI-driven unique visitor counter that processes video streams to detect, trac
 
 ## Demo Video
 
-[ADD LOOM LINK HERE]
+https://www.loom.com/share/7d980283857b4fa586b3eb9bf0e56ec8
 
 ---
 
