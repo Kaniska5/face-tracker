@@ -1,0 +1,677 @@
+2026-03-22 10:34:57,729 - LOG INITIALIZED
+2026-03-22 10:36:21,784 - ENTRY               | face_id=8dbaf736 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/8dbaf736_10-02-45-650111.jpg
+2026-03-22 10:36:21,784 - EXIT                | face_id=8dbaf736 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/8dbaf736_10-02-54-558027.jpg
+2026-03-22 10:36:21,785 - ENTRY               | face_id=7ab23b3d | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/7ab23b3d_10-03-05-329491.jpg
+2026-03-22 10:36:21,785 - ENTRY               | face_id=3971c77f | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/3971c77f_10-03-07-931298.jpg
+2026-03-22 10:36:21,785 - ENTRY               | face_id=b22515a3 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/b22515a3_10-03-10-105110.jpg
+2026-03-22 10:36:21,785 - ENTRY               | face_id=77e0e312 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/77e0e312_10-03-11-366772.jpg
+2026-03-22 10:36:21,786 - ENTRY               | face_id=24987ecb | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/24987ecb_10-03-13-970268.jpg
+2026-03-22 10:36:21,786 - EXIT                | face_id=7ab23b3d | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/7ab23b3d_10-03-16-677502.jpg
+2026-03-22 10:36:21,786 - EXIT                | face_id=b22515a3 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/b22515a3_10-03-19-329000.jpg
+2026-03-22 10:36:21,786 - EXIT                | face_id=77e0e312 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/77e0e312_10-03-20-367013.jpg
+2026-03-22 10:36:21,787 - ENTRY               | face_id=94bb8cef | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/94bb8cef_10-03-22-422909.jpg
+2026-03-22 10:36:21,787 - ENTRY               | face_id=d7dd0e26 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/d7dd0e26_10-03-23-744321.jpg
+2026-03-22 10:36:21,787 - ENTRY               | face_id=94bb8cef | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/94bb8cef_10-03-24-701346.jpg
+2026-03-22 10:36:21,787 - ENTRY               | face_id=d7dd0e26 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/d7dd0e26_10-03-25-423238.jpg
+2026-03-22 10:36:21,787 - ENTRY               | face_id=d7dd0e26 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/d7dd0e26_10-03-26-684748.jpg
+2026-03-22 10:36:21,787 - ENTRY               | face_id=94bb8cef | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/94bb8cef_10-03-27-395509.jpg
+2026-03-22 10:36:21,788 - ENTRY               | face_id=94bb8cef | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/94bb8cef_10-03-28-309750.jpg
+2026-03-22 10:36:21,788 - ENTRY               | face_id=94bb8cef | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/94bb8cef_10-03-29-252622.jpg
+2026-03-22 10:36:21,788 - ENTRY               | face_id=92f16944 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/92f16944_10-03-31-011852.jpg
+2026-03-22 10:36:21,788 - ENTRY               | face_id=ce0c9b40 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/ce0c9b40_10-03-32-750001.jpg
+2026-03-22 10:36:21,788 - ENTRY               | face_id=ce0c9b40 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/ce0c9b40_10-03-34-762209.jpg
+2026-03-22 10:36:21,789 - ENTRY               | face_id=ce0c9b40 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/ce0c9b40_10-03-37-099219.jpg
+2026-03-22 10:36:21,789 - ENTRY               | face_id=ce0c9b40 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/ce0c9b40_10-03-39-067169.jpg
+2026-03-22 10:36:21,789 - EXIT                | face_id=24987ecb | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/24987ecb_10-03-39-078604.jpg
+2026-03-22 10:36:21,789 - EXIT                | face_id=3971c77f | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/3971c77f_10-03-39-506593.jpg
+2026-03-22 10:36:21,789 - EXIT                | face_id=94bb8cef | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/94bb8cef_10-03-39-746763.jpg
+2026-03-22 10:36:21,790 - EXIT                | face_id=d7dd0e26 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/d7dd0e26_10-03-39-756888.jpg
+2026-03-22 10:36:21,790 - EXIT                | face_id=94bb8cef | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/94bb8cef_10-03-40-201025.jpg
+2026-03-22 10:36:21,790 - EXIT                | face_id=d7dd0e26 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/d7dd0e26_10-03-40-211475.jpg
+2026-03-22 10:36:21,790 - EXIT                | face_id=d7dd0e26 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/d7dd0e26_10-03-40-429247.jpg
+2026-03-22 10:36:21,790 - EXIT                | face_id=94bb8cef | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/94bb8cef_10-03-40-439138.jpg
+2026-03-22 10:36:21,790 - EXIT                | face_id=94bb8cef | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/94bb8cef_10-03-40-648701.jpg
+2026-03-22 10:36:21,791 - EXIT                | face_id=94bb8cef | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/94bb8cef_10-03-40-862206.jpg
+2026-03-22 10:36:21,791 - EXIT                | face_id=ce0c9b40 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/ce0c9b40_10-03-42-926918.jpg
+2026-03-22 10:36:21,791 - EXIT                | face_id=ce0c9b40 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/ce0c9b40_10-03-43-731952.jpg
+2026-03-22 10:36:21,791 - EXIT                | face_id=ce0c9b40 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/ce0c9b40_10-03-44-368296.jpg
+2026-03-22 10:36:21,791 - EXIT                | face_id=ce0c9b40 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/ce0c9b40_10-03-45-919751.jpg
+2026-03-22 10:36:21,792 - EXIT                | face_id=92f16944 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/92f16944_10-03-48-610128.jpg
+2026-03-22 10:36:21,792 - ENTRY               | face_id=35952878 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/35952878_10-04-10-593213.jpg
+2026-03-22 10:36:21,792 - ENTRY               | face_id=35952878 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/35952878_10-04-12-161157.jpg
+2026-03-22 10:36:21,792 - EXIT                | face_id=35952878 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/35952878_10-04-13-248319.jpg
+2026-03-22 10:36:21,792 - EXIT                | face_id=35952878 | video=record_20250620_183903.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/35952878_10-04-13-257292.jpg
+2026-03-22 10:36:21,793 - ENTRY               | face_id=a05a4fcb | video=record_20250620_184049.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/a05a4fcb_10-05-22-891824.jpg
+2026-03-22 10:36:21,793 - ENTRY               | face_id=e25adba3 | video=record_20250620_184049.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/e25adba3_10-05-25-657870.jpg
+2026-03-22 10:36:21,793 - EXIT                | face_id=a05a4fcb | video=record_20250620_184049.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/a05a4fcb_10-05-30-652704.jpg
+2026-03-22 10:36:21,793 - EXIT                | face_id=e25adba3 | video=record_20250620_184049.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/e25adba3_10-05-31-951245.jpg
+2026-03-22 10:36:21,793 - ENTRY               | face_id=2034a560 | video=record_20250620_184302.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/2034a560_10-06-20-757227.jpg
+2026-03-22 10:36:21,794 - ENTRY               | face_id=b84b72f7 | video=record_20250620_184302.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/b84b72f7_10-06-27-389893.jpg
+2026-03-22 10:36:21,794 - EXIT                | face_id=2034a560 | video=record_20250620_184302.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/2034a560_10-06-33-753263.jpg
+2026-03-22 10:36:21,794 - EXIT                | face_id=b84b72f7 | video=record_20250620_184302.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/b84b72f7_10-06-34-420398.jpg
+2026-03-22 10:36:21,794 - ENTRY               | face_id=bafdd144 | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/bafdd144_10-07-51-302338.jpg
+2026-03-22 10:36:21,794 - ENTRY               | face_id=da723d1f | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/da723d1f_10-07-55-837717.jpg
+2026-03-22 10:36:21,795 - ENTRY               | face_id=c3d531a6 | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/c3d531a6_10-07-56-984271.jpg
+2026-03-22 10:36:21,795 - ENTRY               | face_id=abdf60fe | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/abdf60fe_10-07-58-776323.jpg
+2026-03-22 10:36:21,795 - ENTRY               | face_id=69c8145c | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/69c8145c_10-08-01-179896.jpg
+2026-03-22 10:36:21,795 - ENTRY               | face_id=6c896ce1 | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/6c896ce1_10-08-02-124623.jpg
+2026-03-22 10:36:21,795 - ENTRY               | face_id=d67cdfdc | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/d67cdfdc_10-08-03-183967.jpg
+2026-03-22 10:36:21,796 - ENTRY               | face_id=d67cdfdc | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/d67cdfdc_10-08-04-249153.jpg
+2026-03-22 10:36:21,796 - ENTRY               | face_id=d20d9f00 | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/d20d9f00_10-08-09-365964.jpg
+2026-03-22 10:36:21,796 - EXIT                | face_id=c3d531a6 | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/c3d531a6_10-08-09-381103.jpg
+2026-03-22 10:36:21,796 - EXIT                | face_id=bafdd144 | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/bafdd144_10-08-12-116402.jpg
+2026-03-22 10:36:21,796 - EXIT                | face_id=da723d1f | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/da723d1f_10-08-12-126193.jpg
+2026-03-22 10:36:21,797 - EXIT                | face_id=abdf60fe | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/abdf60fe_10-08-12-135314.jpg
+2026-03-22 10:36:21,797 - EXIT                | face_id=69c8145c | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/69c8145c_10-08-12-143998.jpg
+2026-03-22 10:36:21,797 - EXIT                | face_id=6c896ce1 | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/6c896ce1_10-08-12-152006.jpg
+2026-03-22 10:36:21,797 - EXIT                | face_id=d67cdfdc | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/d67cdfdc_10-08-12-160927.jpg
+2026-03-22 10:36:21,798 - EXIT                | face_id=d67cdfdc | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/d67cdfdc_10-08-12-169157.jpg
+2026-03-22 10:36:21,798 - EXIT                | face_id=d20d9f00 | video=record_20250620_184403.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/d20d9f00_10-08-12-177146.jpg
+2026-03-22 10:36:21,798 - ENTRY               | face_id=1ccb7ddd | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/1ccb7ddd_10-08-24-901495.jpg
+2026-03-22 10:36:21,798 - ENTRY               | face_id=b6a1a24d | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/b6a1a24d_10-08-33-435065.jpg
+2026-03-22 10:36:21,798 - ENTRY               | face_id=b6a1a24d | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/b6a1a24d_10-08-34-402598.jpg
+2026-03-22 10:36:21,798 - ENTRY               | face_id=b6a1a24d | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/b6a1a24d_10-08-35-528703.jpg
+2026-03-22 10:36:21,799 - ENTRY               | face_id=b6a1a24d | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/b6a1a24d_10-08-36-495382.jpg
+2026-03-22 10:36:21,799 - ENTRY               | face_id=b6a1a24d | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/b6a1a24d_10-08-37-783058.jpg
+2026-03-22 10:36:21,799 - ENTRY               | face_id=b6a1a24d | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/b6a1a24d_10-08-39-084401.jpg
+2026-03-22 10:36:21,799 - ENTRY               | face_id=57e05757 | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/57e05757_10-08-40-549019.jpg
+2026-03-22 10:36:21,799 - EXIT                | face_id=1ccb7ddd | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/1ccb7ddd_10-08-45-332852.jpg
+2026-03-22 10:36:21,800 - EXIT                | face_id=b6a1a24d | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/b6a1a24d_10-08-45-536686.jpg
+2026-03-22 10:36:21,800 - EXIT                | face_id=b6a1a24d | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/b6a1a24d_10-08-45-950110.jpg
+2026-03-22 10:36:21,800 - EXIT                | face_id=b6a1a24d | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/b6a1a24d_10-08-46-148643.jpg
+2026-03-22 10:36:21,800 - EXIT                | face_id=b6a1a24d | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/b6a1a24d_10-08-46-394044.jpg
+2026-03-22 10:36:21,801 - EXIT                | face_id=b6a1a24d | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/b6a1a24d_10-08-46-598062.jpg
+2026-03-22 10:36:21,801 - EXIT                | face_id=b6a1a24d | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/b6a1a24d_10-08-46-814148.jpg
+2026-03-22 10:36:21,801 - EXIT                | face_id=57e05757 | video=record_20250620_184504.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/57e05757_10-08-47-010374.jpg
+2026-03-22 10:36:21,801 - ENTRY               | face_id=e310b810 | video=record_20250620_184705.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/e310b810_10-11-32-415420.jpg
+2026-03-22 10:36:21,801 - EXIT                | face_id=e310b810 | video=record_20250620_184705.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/e310b810_10-11-45-768620.jpg
+2026-03-22 10:36:21,802 - ENTRY               | face_id=429cc017 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/429cc017_10-12-02-165380.jpg
+2026-03-22 10:36:21,802 - ENTRY               | face_id=82bad46d | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/82bad46d_10-12-03-484613.jpg
+2026-03-22 10:36:21,802 - ENTRY               | face_id=73cce3af | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/73cce3af_10-12-05-686203.jpg
+2026-03-22 10:36:21,802 - ENTRY               | face_id=7adcb44f | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/7adcb44f_10-12-08-240293.jpg
+2026-03-22 10:36:21,802 - ENTRY               | face_id=63bcdc5f | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/63bcdc5f_10-12-09-854597.jpg
+2026-03-22 10:36:21,803 - EXIT                | face_id=429cc017 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/429cc017_10-12-12-916913.jpg
+2026-03-22 10:36:21,803 - EXIT                | face_id=82bad46d | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/82bad46d_10-12-16-326187.jpg
+2026-03-22 10:36:21,803 - EXIT                | face_id=7adcb44f | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/7adcb44f_10-12-16-533812.jpg
+2026-03-22 10:36:21,803 - EXIT                | face_id=63bcdc5f | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/63bcdc5f_10-12-16-927154.jpg
+2026-03-22 10:36:21,804 - EXIT                | face_id=73cce3af | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/73cce3af_10-12-17-149280.jpg
+2026-03-22 10:36:21,804 - ENTRY               | face_id=8243f48f | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/8243f48f_10-12-25-918305.jpg
+2026-03-22 10:36:21,804 - ENTRY               | face_id=90913ea7 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/90913ea7_10-12-30-949023.jpg
+2026-03-22 10:36:21,804 - ENTRY               | face_id=842d0d50 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/842d0d50_10-12-32-508781.jpg
+2026-03-22 10:36:21,804 - ENTRY               | face_id=a7cfd219 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/a7cfd219_10-12-37-216592.jpg
+2026-03-22 10:36:21,805 - ENTRY               | face_id=b2f24415 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/b2f24415_10-12-39-143618.jpg
+2026-03-22 10:36:21,805 - ENTRY               | face_id=4660a444 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4660a444_10-12-40-132429.jpg
+2026-03-22 10:36:21,805 - ENTRY               | face_id=8b0b49d2 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/8b0b49d2_10-12-41-862152.jpg
+2026-03-22 10:36:21,805 - ENTRY               | face_id=8b0b49d2 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/8b0b49d2_10-12-43-250227.jpg
+2026-03-22 10:36:21,805 - ENTRY               | face_id=8b0b49d2 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/8b0b49d2_10-12-44-175611.jpg
+2026-03-22 10:36:21,806 - EXIT                | face_id=90913ea7 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/90913ea7_10-12-44-380463.jpg
+2026-03-22 10:36:21,806 - EXIT                | face_id=8243f48f | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/8243f48f_10-12-48-112634.jpg
+2026-03-22 10:36:21,806 - EXIT                | face_id=842d0d50 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/842d0d50_10-12-49-148097.jpg
+2026-03-22 10:36:21,806 - EXIT                | face_id=a7cfd219 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/a7cfd219_10-12-49-157483.jpg
+2026-03-22 10:36:21,806 - EXIT                | face_id=b2f24415 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/b2f24415_10-12-49-617197.jpg
+2026-03-22 10:36:21,806 - EXIT                | face_id=4660a444 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4660a444_10-12-49-627202.jpg
+2026-03-22 10:36:21,807 - EXIT                | face_id=8b0b49d2 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/8b0b49d2_10-12-50-061418.jpg
+2026-03-22 10:36:21,807 - EXIT                | face_id=8b0b49d2 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/8b0b49d2_10-12-50-273122.jpg
+2026-03-22 10:36:21,807 - EXIT                | face_id=8b0b49d2 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/8b0b49d2_10-12-50-492337.jpg
+2026-03-22 10:36:21,807 - ENTRY               | face_id=32354092 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/32354092_10-12-51-429493.jpg
+2026-03-22 10:36:21,807 - ENTRY               | face_id=b6172ff7 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/b6172ff7_10-12-53-804467.jpg
+2026-03-22 10:36:21,808 - ENTRY               | face_id=35668fd8 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/35668fd8_10-12-55-654981.jpg
+2026-03-22 10:36:21,808 - ENTRY               | face_id=ecd295da | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/ecd295da_10-12-57-595490.jpg
+2026-03-22 10:36:21,808 - ENTRY               | face_id=3747bcd6 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/3747bcd6_10-12-59-195302.jpg
+2026-03-22 10:36:21,808 - ENTRY               | face_id=7688420e | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/7688420e_10-13-01-093380.jpg
+2026-03-22 10:36:21,808 - ENTRY               | face_id=a74a8082 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/a74a8082_10-13-03-806943.jpg
+2026-03-22 10:36:21,808 - ENTRY               | face_id=fad78158 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/fad78158_10-13-04-748148.jpg
+2026-03-22 10:36:21,808 - ENTRY               | face_id=2f75a64f | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/2f75a64f_10-13-06-142110.jpg
+2026-03-22 10:36:21,809 - EXIT                | face_id=32354092 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/32354092_10-13-06-161227.jpg
+2026-03-22 10:36:21,809 - EXIT                | face_id=b6172ff7 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/b6172ff7_10-13-07-314414.jpg
+2026-03-22 10:36:21,809 - ENTRY               | face_id=89e8bb3e | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/89e8bb3e_10-13-08-251690.jpg
+2026-03-22 10:36:21,809 - EXIT                | face_id=ecd295da | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/ecd295da_10-13-08-583589.jpg
+2026-03-22 10:36:21,809 - ENTRY               | face_id=6b7ebb60 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/6b7ebb60_10-13-10-593618.jpg
+2026-03-22 10:36:21,809 - EXIT                | face_id=3747bcd6 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/3747bcd6_10-13-11-002132.jpg
+2026-03-22 10:36:21,809 - ENTRY               | face_id=4d311fa3 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4d311fa3_10-13-12-471761.jpg
+2026-03-22 10:36:21,809 - ENTRY               | face_id=9d5893ad | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9d5893ad_10-13-14-182511.jpg
+2026-03-22 10:36:21,809 - ENTRY               | face_id=0871e8fc | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/0871e8fc_10-13-15-127176.jpg
+2026-03-22 10:36:21,810 - EXIT                | face_id=35668fd8 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/35668fd8_10-13-15-356319.jpg
+2026-03-22 10:36:21,810 - ENTRY               | face_id=6f7f9d51 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/6f7f9d51_10-13-16-505162.jpg
+2026-03-22 10:36:21,810 - EXIT                | face_id=a74a8082 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/a74a8082_10-13-17-622114.jpg
+2026-03-22 10:36:21,810 - ENTRY               | face_id=72ae65a6 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/72ae65a6_10-13-18-759654.jpg
+2026-03-22 10:36:21,810 - EXIT                | face_id=2f75a64f | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/2f75a64f_10-13-19-194748.jpg
+2026-03-22 10:36:21,810 - EXIT                | face_id=89e8bb3e | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/89e8bb3e_10-13-20-668899.jpg
+2026-03-22 10:36:21,810 - EXIT                | face_id=7688420e | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/7688420e_10-13-21-694524.jpg
+2026-03-22 10:36:21,810 - EXIT                | face_id=fad78158 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/fad78158_10-13-21-704933.jpg
+2026-03-22 10:36:21,810 - EXIT                | face_id=6b7ebb60 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/6b7ebb60_10-13-21-712475.jpg
+2026-03-22 10:36:21,810 - EXIT                | face_id=4d311fa3 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4d311fa3_10-13-21-722291.jpg
+2026-03-22 10:36:21,811 - EXIT                | face_id=9d5893ad | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9d5893ad_10-13-21-730877.jpg
+2026-03-22 10:36:21,811 - EXIT                | face_id=0871e8fc | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/0871e8fc_10-13-21-739452.jpg
+2026-03-22 10:36:21,811 - EXIT                | face_id=6f7f9d51 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/6f7f9d51_10-13-21-748191.jpg
+2026-03-22 10:36:21,811 - EXIT                | face_id=72ae65a6 | video=record_20250620_184807.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/72ae65a6_10-13-21-756407.jpg
+2026-03-22 10:36:21,811 - ENTRY               | face_id=ec77b2f5 | video=record_20250620_184907.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/ec77b2f5_10-13-35-109267.jpg
+2026-03-22 10:36:21,811 - ENTRY               | face_id=0fb92c50 | video=record_20250620_184907.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/0fb92c50_10-13-40-195271.jpg
+2026-03-22 10:36:21,811 - ENTRY               | face_id=4f128dec | video=record_20250620_184907.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4f128dec_10-13-41-183481.jpg
+2026-03-22 10:36:21,811 - EXIT                | face_id=ec77b2f5 | video=record_20250620_184907.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/ec77b2f5_10-13-46-702001.jpg
+2026-03-22 10:36:21,811 - EXIT                | face_id=0fb92c50 | video=record_20250620_184907.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/0fb92c50_10-13-47-302257.jpg
+2026-03-22 10:36:21,811 - EXIT                | face_id=4f128dec | video=record_20250620_184907.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4f128dec_10-13-47-698905.jpg
+2026-03-22 10:36:21,812 - ENTRY               | face_id=deb691e7 | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/deb691e7_10-14-40-977140.jpg
+2026-03-22 10:36:21,812 - ENTRY               | face_id=53a0de15 | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/53a0de15_10-14-42-714566.jpg
+2026-03-22 10:36:21,812 - ENTRY               | face_id=53a0de15 | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/53a0de15_10-14-43-658043.jpg
+2026-03-22 10:36:21,812 - ENTRY               | face_id=1b93b93e | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/1b93b93e_10-14-44-678950.jpg
+2026-03-22 10:36:21,812 - ENTRY               | face_id=48e82e85 | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/48e82e85_10-14-46-162270.jpg
+2026-03-22 10:36:21,812 - ENTRY               | face_id=48e82e85 | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/48e82e85_10-14-46-890773.jpg
+2026-03-22 10:36:21,812 - EXIT                | face_id=deb691e7 | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/deb691e7_10-14-51-622681.jpg
+2026-03-22 10:36:21,812 - EXIT                | face_id=53a0de15 | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/53a0de15_10-14-52-032654.jpg
+2026-03-22 10:36:21,812 - EXIT                | face_id=53a0de15 | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/53a0de15_10-14-52-232580.jpg
+2026-03-22 10:36:21,812 - ENTRY               | face_id=a0906821 | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/a0906821_10-14-53-302125.jpg
+2026-03-22 10:36:21,813 - EXIT                | face_id=1b93b93e | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/1b93b93e_10-14-53-318525.jpg
+2026-03-22 10:36:21,813 - EXIT                | face_id=48e82e85 | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/48e82e85_10-14-53-699226.jpg
+2026-03-22 10:36:21,813 - EXIT                | face_id=48e82e85 | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/48e82e85_10-14-53-707284.jpg
+2026-03-22 10:36:21,813 - EXIT                | face_id=a0906821 | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/a0906821_10-15-00-815962.jpg
+2026-03-22 10:36:21,813 - ENTRY               | face_id=693620c3 | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/693620c3_10-15-21-766165.jpg
+2026-03-22 10:36:21,813 - ENTRY               | face_id=f771c06a | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/f771c06a_10-15-24-832374.jpg
+2026-03-22 10:36:21,813 - EXIT                | face_id=693620c3 | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/693620c3_10-15-31-732738.jpg
+2026-03-22 10:36:21,813 - EXIT                | face_id=f771c06a | video=record_20250620_185008.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/f771c06a_10-15-32-403570.jpg
+2026-03-22 10:36:21,813 - ENTRY               | face_id=6726ad63 | video=record_20250620_185109.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/6726ad63_10-16-33-082430.jpg
+2026-03-22 10:36:21,813 - EXIT                | face_id=6726ad63 | video=record_20250620_185109.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/6726ad63_10-16-42-580554.jpg
+2026-03-22 10:36:21,813 - ENTRY               | face_id=dfc05b47 | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/dfc05b47_10-17-38-763887.jpg
+2026-03-22 10:36:21,814 - ENTRY               | face_id=7d43602a | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/7d43602a_10-17-56-532545.jpg
+2026-03-22 10:36:21,814 - ENTRY               | face_id=7d43602a | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/7d43602a_10-17-57-841051.jpg
+2026-03-22 10:36:21,814 - ENTRY               | face_id=a09f75e6 | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/a09f75e6_10-18-03-248045.jpg
+2026-03-22 10:36:21,814 - ENTRY               | face_id=3370acac | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/3370acac_10-18-05-210978.jpg
+2026-03-22 10:36:21,814 - EXIT                | face_id=dfc05b47 | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/dfc05b47_10-18-05-636019.jpg
+2026-03-22 10:36:21,814 - EXIT                | face_id=7d43602a | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/7d43602a_10-18-05-918735.jpg
+2026-03-22 10:36:21,814 - EXIT                | face_id=7d43602a | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/7d43602a_10-18-06-573494.jpg
+2026-03-22 10:36:21,814 - ENTRY               | face_id=6dbe6645 | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/6dbe6645_10-18-16-618245.jpg
+2026-03-22 10:36:21,814 - ENTRY               | face_id=c82268a8 | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/c82268a8_10-18-18-487092.jpg
+2026-03-22 10:36:21,814 - ENTRY               | face_id=6dbe6645 | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/6dbe6645_10-18-19-216894.jpg
+2026-03-22 10:36:21,815 - ENTRY               | face_id=6dbe6645 | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/6dbe6645_10-18-20-600053.jpg
+2026-03-22 10:36:21,815 - ENTRY               | face_id=78f31120 | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/78f31120_10-18-21-921079.jpg
+2026-03-22 10:36:21,815 - EXIT                | face_id=a09f75e6 | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/a09f75e6_10-18-22-210404.jpg
+2026-03-22 10:36:21,815 - EXIT                | face_id=3370acac | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/3370acac_10-18-22-220338.jpg
+2026-03-22 10:36:21,815 - EXIT                | face_id=6dbe6645 | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/6dbe6645_10-18-22-228964.jpg
+2026-03-22 10:36:21,815 - EXIT                | face_id=c82268a8 | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/c82268a8_10-18-22-238308.jpg
+2026-03-22 10:36:21,815 - EXIT                | face_id=6dbe6645 | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/6dbe6645_10-18-22-246092.jpg
+2026-03-22 10:36:21,815 - EXIT                | face_id=6dbe6645 | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/6dbe6645_10-18-22-254721.jpg
+2026-03-22 10:36:21,815 - EXIT                | face_id=78f31120 | video=record_20250620_185210.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/78f31120_10-18-22-262439.jpg
+2026-03-22 10:36:21,815 - ENTRY               | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9583feb3_10-18-24-430058.jpg
+2026-03-22 10:36:21,815 - ENTRY               | face_id=3c6a269e | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/3c6a269e_10-18-25-895386.jpg
+2026-03-22 10:36:21,816 - ENTRY               | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9583feb3_10-18-27-915099.jpg
+2026-03-22 10:36:21,816 - ENTRY               | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9583feb3_10-18-29-272108.jpg
+2026-03-22 10:36:21,816 - ENTRY               | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9583feb3_10-18-30-475162.jpg
+2026-03-22 10:36:21,816 - ENTRY               | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9583feb3_10-18-31-435943.jpg
+2026-03-22 10:36:21,816 - ENTRY               | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9583feb3_10-18-32-353358.jpg
+2026-03-22 10:36:21,816 - ENTRY               | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9583feb3_10-18-33-385300.jpg
+2026-03-22 10:36:21,816 - ENTRY               | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9583feb3_10-18-34-418911.jpg
+2026-03-22 10:36:21,816 - ENTRY               | face_id=ae39d21b | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/ae39d21b_10-18-35-386247.jpg
+2026-03-22 10:36:21,816 - ENTRY               | face_id=ae39d21b | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/ae39d21b_10-18-36-310560.jpg
+2026-03-22 10:36:21,816 - EXIT                | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9583feb3_10-18-41-070257.jpg
+2026-03-22 10:36:21,816 - EXIT                | face_id=3c6a269e | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/3c6a269e_10-18-41-079284.jpg
+2026-03-22 10:36:21,816 - EXIT                | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9583feb3_10-18-41-379677.jpg
+2026-03-22 10:36:21,817 - EXIT                | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9583feb3_10-18-41-693743.jpg
+2026-03-22 10:36:21,817 - EXIT                | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9583feb3_10-18-42-039287.jpg
+2026-03-22 10:36:21,817 - EXIT                | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9583feb3_10-18-42-355735.jpg
+2026-03-22 10:36:21,817 - EXIT                | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9583feb3_10-18-42-673905.jpg
+2026-03-22 10:36:21,817 - EXIT                | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9583feb3_10-18-43-010711.jpg
+2026-03-22 10:36:21,817 - EXIT                | face_id=9583feb3 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9583feb3_10-18-43-337427.jpg
+2026-03-22 10:36:21,817 - ENTRY               | face_id=5dd1ee60 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/5dd1ee60_10-18-44-843461.jpg
+2026-03-22 10:36:21,817 - EXIT                | face_id=ae39d21b | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/ae39d21b_10-18-44-862025.jpg
+2026-03-22 10:36:21,817 - EXIT                | face_id=ae39d21b | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/ae39d21b_10-18-45-080144.jpg
+2026-03-22 10:36:21,817 - ENTRY               | face_id=c20c0532 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/c20c0532_10-18-46-232309.jpg
+2026-03-22 10:36:21,817 - ENTRY               | face_id=4eb6ea2e | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4eb6ea2e_10-18-52-060291.jpg
+2026-03-22 10:36:21,818 - ENTRY               | face_id=9b54f633 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9b54f633_10-18-53-244966.jpg
+2026-03-22 10:36:21,818 - ENTRY               | face_id=4eb6ea2e | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4eb6ea2e_10-18-54-202747.jpg
+2026-03-22 10:36:21,818 - ENTRY               | face_id=9b54f633 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9b54f633_10-18-54-983151.jpg
+2026-03-22 10:36:21,818 - ENTRY               | face_id=9b54f633 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9b54f633_10-18-56-438552.jpg
+2026-03-22 10:36:21,818 - ENTRY               | face_id=4eb6ea2e | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4eb6ea2e_10-18-57-765966.jpg
+2026-03-22 10:36:21,818 - ENTRY               | face_id=4eb6ea2e | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4eb6ea2e_10-18-59-086029.jpg
+2026-03-22 10:36:21,818 - ENTRY               | face_id=4eb6ea2e | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4eb6ea2e_10-19-00-220604.jpg
+2026-03-22 10:36:21,818 - ENTRY               | face_id=4eb6ea2e | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4eb6ea2e_10-19-01-136090.jpg
+2026-03-22 10:36:21,818 - EXIT                | face_id=5dd1ee60 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/5dd1ee60_10-19-05-231528.jpg
+2026-03-22 10:36:21,818 - EXIT                | face_id=c20c0532 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/c20c0532_10-19-05-617529.jpg
+2026-03-22 10:36:21,818 - EXIT                | face_id=4eb6ea2e | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4eb6ea2e_10-19-05-827586.jpg
+2026-03-22 10:36:21,819 - EXIT                | face_id=9b54f633 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9b54f633_10-19-05-838764.jpg
+2026-03-22 10:36:21,819 - EXIT                | face_id=9b54f633 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9b54f633_10-19-06-036392.jpg
+2026-03-22 10:36:21,819 - EXIT                | face_id=4eb6ea2e | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4eb6ea2e_10-19-06-303586.jpg
+2026-03-22 10:36:21,819 - EXIT                | face_id=9b54f633 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9b54f633_10-19-06-312664.jpg
+2026-03-22 10:36:21,819 - EXIT                | face_id=4eb6ea2e | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4eb6ea2e_10-19-06-508087.jpg
+2026-03-22 10:36:21,819 - EXIT                | face_id=4eb6ea2e | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4eb6ea2e_10-19-06-727712.jpg
+2026-03-22 10:36:21,819 - EXIT                | face_id=4eb6ea2e | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4eb6ea2e_10-19-06-927380.jpg
+2026-03-22 10:36:21,819 - EXIT                | face_id=4eb6ea2e | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4eb6ea2e_10-19-07-125782.jpg
+2026-03-22 10:36:21,819 - ENTRY               | face_id=b699beb1 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/b699beb1_10-19-32-974274.jpg
+2026-03-22 10:36:21,819 - ENTRY               | face_id=44b264f0 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/44b264f0_10-19-39-506858.jpg
+2026-03-22 10:36:21,819 - EXIT                | face_id=b699beb1 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/b699beb1_10-19-45-696050.jpg
+2026-03-22 10:36:21,820 - EXIT                | face_id=44b264f0 | video=record_20250620_190324.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/44b264f0_10-19-48-448754.jpg
+2026-03-22 10:36:21,820 - ENTRY               | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/f75b6e3d_10-19-55-820830.jpg
+2026-03-22 10:36:21,820 - ENTRY               | face_id=4b749e4c | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4b749e4c_10-20-01-160850.jpg
+2026-03-22 10:36:21,820 - ENTRY               | face_id=4b749e4c | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4b749e4c_10-20-02-313204.jpg
+2026-03-22 10:36:21,820 - ENTRY               | face_id=4b749e4c | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4b749e4c_10-20-03-242419.jpg
+2026-03-22 10:36:21,820 - ENTRY               | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/f75b6e3d_10-20-08-007289.jpg
+2026-03-22 10:36:21,820 - ENTRY               | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/f75b6e3d_10-20-08-956390.jpg
+2026-03-22 10:36:21,820 - ENTRY               | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/f75b6e3d_10-20-09-890289.jpg
+2026-03-22 10:36:21,820 - ENTRY               | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/f75b6e3d_10-20-11-135417.jpg
+2026-03-22 10:36:21,820 - ENTRY               | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/f75b6e3d_10-20-12-512082.jpg
+2026-03-22 10:36:21,820 - ENTRY               | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/f75b6e3d_10-20-13-833214.jpg
+2026-03-22 10:36:21,821 - ENTRY               | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/f75b6e3d_10-20-15-113034.jpg
+2026-03-22 10:36:21,821 - ENTRY               | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/f75b6e3d_10-20-16-041408.jpg
+2026-03-22 10:36:21,821 - EXIT                | face_id=4b749e4c | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4b749e4c_10-20-16-480944.jpg
+2026-03-22 10:36:21,821 - EXIT                | face_id=4b749e4c | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4b749e4c_10-20-16-894206.jpg
+2026-03-22 10:36:21,821 - EXIT                | face_id=4b749e4c | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4b749e4c_10-20-17-114895.jpg
+2026-03-22 10:36:21,821 - EXIT                | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/f75b6e3d_10-20-20-690465.jpg
+2026-03-22 10:36:21,821 - EXIT                | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/f75b6e3d_10-20-20-893581.jpg
+2026-03-22 10:36:21,821 - EXIT                | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/f75b6e3d_10-20-21-102255.jpg
+2026-03-22 10:36:21,821 - EXIT                | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/f75b6e3d_10-20-21-307094.jpg
+2026-03-22 10:36:21,821 - EXIT                | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/f75b6e3d_10-20-21-522244.jpg
+2026-03-22 10:36:21,821 - EXIT                | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/f75b6e3d_10-20-21-786323.jpg
+2026-03-22 10:36:21,822 - EXIT                | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/f75b6e3d_10-20-21-988481.jpg
+2026-03-22 10:36:21,822 - EXIT                | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/f75b6e3d_10-20-22-197528.jpg
+2026-03-22 10:36:21,822 - EXIT                | face_id=f75b6e3d | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/f75b6e3d_10-20-22-401031.jpg
+2026-03-22 10:36:21,822 - ENTRY               | face_id=caf1dacc | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/caf1dacc_10-21-08-402095.jpg
+2026-03-22 10:36:21,822 - EXIT                | face_id=caf1dacc | video=record_20250620_190425.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/caf1dacc_10-21-15-426658.jpg
+2026-03-22 10:36:21,822 - ENTRY               | face_id=dfe6ec73 | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/dfe6ec73_10-22-01-577921.jpg
+2026-03-22 10:36:21,822 - ENTRY               | face_id=a728b8b0 | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/a728b8b0_10-22-06-877412.jpg
+2026-03-22 10:36:21,822 - ENTRY               | face_id=a728b8b0 | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/a728b8b0_10-22-08-250273.jpg
+2026-03-22 10:36:21,822 - ENTRY               | face_id=a728b8b0 | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/a728b8b0_10-22-09-160364.jpg
+2026-03-22 10:36:21,822 - ENTRY               | face_id=a728b8b0 | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/a728b8b0_10-22-10-080914.jpg
+2026-03-22 10:36:21,822 - ENTRY               | face_id=a728b8b0 | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/a728b8b0_10-22-11-167869.jpg
+2026-03-22 10:36:21,823 - ENTRY               | face_id=2b9b3ff7 | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/2b9b3ff7_10-22-11-827424.jpg
+2026-03-22 10:36:21,823 - ENTRY               | face_id=fc026e2d | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/fc026e2d_10-22-13-142008.jpg
+2026-03-22 10:36:21,823 - EXIT                | face_id=dfe6ec73 | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/dfe6ec73_10-22-18-176912.jpg
+2026-03-22 10:36:21,823 - EXIT                | face_id=a728b8b0 | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/a728b8b0_10-22-18-874499.jpg
+2026-03-22 10:36:21,823 - EXIT                | face_id=a728b8b0 | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/a728b8b0_10-22-19-089731.jpg
+2026-03-22 10:36:21,823 - EXIT                | face_id=a728b8b0 | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/a728b8b0_10-22-19-298249.jpg
+2026-03-22 10:36:21,823 - EXIT                | face_id=a728b8b0 | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/a728b8b0_10-22-19-531129.jpg
+2026-03-22 10:36:21,823 - EXIT                | face_id=a728b8b0 | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/a728b8b0_10-22-19-746276.jpg
+2026-03-22 10:36:21,823 - EXIT                | face_id=2b9b3ff7 | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/2b9b3ff7_10-22-19-966317.jpg
+2026-03-22 10:36:21,823 - EXIT                | face_id=fc026e2d | video=record_20250620_190525.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/fc026e2d_10-22-20-185329.jpg
+2026-03-22 10:36:21,823 - ENTRY               | face_id=61177a2e | video=record_20250620_190626.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/61177a2e_10-23-06-326892.jpg
+2026-03-22 10:36:21,823 - EXIT                | face_id=61177a2e | video=record_20250620_190626.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/61177a2e_10-23-18-324841.jpg
+2026-03-22 10:36:21,824 - ENTRY               | face_id=11b39554 | video=record_20250620_190727.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/11b39554_10-24-11-663709.jpg
+2026-03-22 10:36:21,824 - EXIT                | face_id=11b39554 | video=record_20250620_190727.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/11b39554_10-24-19-724974.jpg
+2026-03-22 10:36:21,824 - ENTRY               | face_id=dc2a9f26 | video=record_20250620_190727.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/dc2a9f26_10-24-22-003494.jpg
+2026-03-22 10:36:21,824 - ENTRY               | face_id=7ba84fb5 | video=record_20250620_190727.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/7ba84fb5_10-24-22-937055.jpg
+2026-03-22 10:36:21,824 - ENTRY               | face_id=174638f4 | video=record_20250620_190727.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/174638f4_10-24-24-532501.jpg
+2026-03-22 10:36:21,824 - EXIT                | face_id=dc2a9f26 | video=record_20250620_190727.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/dc2a9f26_10-24-31-840061.jpg
+2026-03-22 10:36:21,824 - EXIT                | face_id=7ba84fb5 | video=record_20250620_190727.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/7ba84fb5_10-24-32-485900.jpg
+2026-03-22 10:36:21,824 - EXIT                | face_id=174638f4 | video=record_20250620_190727.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/174638f4_10-24-33-124635.jpg
+2026-03-22 10:36:21,824 - ENTRY               | face_id=28b475c9 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/28b475c9_10-25-16-940430.jpg
+2026-03-22 10:36:21,824 - EXIT                | face_id=28b475c9 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/28b475c9_10-25-22-934746.jpg
+2026-03-22 10:36:21,824 - ENTRY               | face_id=d6fce603 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/d6fce603_10-25-42-900375.jpg
+2026-03-22 10:36:21,825 - ENTRY               | face_id=859d8049 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/859d8049_10-25-48-669138.jpg
+2026-03-22 10:36:21,825 - ENTRY               | face_id=663387a9 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/663387a9_10-25-51-804366.jpg
+2026-03-22 10:36:21,825 - ENTRY               | face_id=663387a9 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/663387a9_10-25-52-740625.jpg
+2026-03-22 10:36:21,825 - ENTRY               | face_id=663387a9 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/663387a9_10-25-53-876467.jpg
+2026-03-22 10:36:21,825 - ENTRY               | face_id=663387a9 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/663387a9_10-25-55-020784.jpg
+2026-03-22 10:36:21,825 - ENTRY               | face_id=663387a9 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/663387a9_10-25-55-938765.jpg
+2026-03-22 10:36:21,825 - ENTRY               | face_id=43e5be42 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/43e5be42_10-25-57-119352.jpg
+2026-03-22 10:36:21,825 - ENTRY               | face_id=43e5be42 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/43e5be42_10-25-58-442934.jpg
+2026-03-22 10:36:21,825 - EXIT                | face_id=d6fce603 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/d6fce603_10-26-00-320958.jpg
+2026-03-22 10:36:21,825 - EXIT                | face_id=859d8049 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/859d8049_10-26-03-874360.jpg
+2026-03-22 10:36:21,825 - EXIT                | face_id=663387a9 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/663387a9_10-26-04-090438.jpg
+2026-03-22 10:36:21,826 - EXIT                | face_id=663387a9 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/663387a9_10-26-04-479230.jpg
+2026-03-22 10:36:21,826 - EXIT                | face_id=663387a9 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/663387a9_10-26-04-870292.jpg
+2026-03-22 10:36:21,826 - EXIT                | face_id=663387a9 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/663387a9_10-26-05-067541.jpg
+2026-03-22 10:36:21,826 - EXIT                | face_id=663387a9 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/663387a9_10-26-05-292222.jpg
+2026-03-22 10:36:21,826 - EXIT                | face_id=43e5be42 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/43e5be42_10-26-05-539014.jpg
+2026-03-22 10:36:21,826 - EXIT                | face_id=43e5be42 | video=record_20250620_190828.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/43e5be42_10-26-05-740445.jpg
+2026-03-22 10:36:21,826 - ENTRY               | face_id=fb45ec96 | video=record_20250620_190928.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/fb45ec96_10-26-35-830965.jpg
+2026-03-22 10:36:21,826 - EXIT                | face_id=fb45ec96 | video=record_20250620_190928.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/fb45ec96_10-26-47-546064.jpg
+2026-03-22 10:36:21,826 - ENTRY               | face_id=5f9441de | video=record_20250620_191029.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/5f9441de_10-28-31-544161.jpg
+2026-03-22 10:36:21,826 - EXIT                | face_id=5f9441de | video=record_20250620_191029.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/5f9441de_10-28-31-559811.jpg
+2026-03-22 10:36:21,827 - ENTRY               | face_id=39f49177 | video=record_20250620_191129.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/39f49177_10-28-33-779034.jpg
+2026-03-22 10:36:21,827 - ENTRY               | face_id=0da6c919 | video=record_20250620_191129.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/0da6c919_10-28-35-112061.jpg
+2026-03-22 10:36:21,827 - ENTRY               | face_id=420c4206 | video=record_20250620_191129.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/420c4206_10-28-39-697912.jpg
+2026-03-22 10:36:21,827 - ENTRY               | face_id=a4ce6865 | video=record_20250620_191129.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/a4ce6865_10-28-41-764242.jpg
+2026-03-22 10:36:21,827 - EXIT                | face_id=0da6c919 | video=record_20250620_191129.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/0da6c919_10-28-47-018613.jpg
+2026-03-22 10:36:21,827 - EXIT                | face_id=39f49177 | video=record_20250620_191129.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/39f49177_10-28-48-287317.jpg
+2026-03-22 10:36:21,827 - EXIT                | face_id=420c4206 | video=record_20250620_191129.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/420c4206_10-28-49-306314.jpg
+2026-03-22 10:36:21,827 - EXIT                | face_id=a4ce6865 | video=record_20250620_191129.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/a4ce6865_10-28-49-909310.jpg
+2026-03-22 10:36:21,827 - ENTRY               | face_id=7975a61d | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/7975a61d_10-30-27-085677.jpg
+2026-03-22 10:36:21,827 - ENTRY               | face_id=242a885a | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/242a885a_10-30-34-228397.jpg
+2026-03-22 10:36:21,827 - ENTRY               | face_id=1cb7513f | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/1cb7513f_10-30-35-311712.jpg
+2026-03-22 10:36:21,828 - ENTRY               | face_id=1cb7513f | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/1cb7513f_10-30-36-479427.jpg
+2026-03-22 10:36:21,828 - ENTRY               | face_id=1cb7513f | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/1cb7513f_10-30-37-387955.jpg
+2026-03-22 10:36:21,828 - ENTRY               | face_id=1cb7513f | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/1cb7513f_10-30-38-350373.jpg
+2026-03-22 10:36:21,828 - ENTRY               | face_id=1cb7513f | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/1cb7513f_10-30-39-265059.jpg
+2026-03-22 10:36:21,828 - ENTRY               | face_id=1cb7513f | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/1cb7513f_10-30-40-206181.jpg
+2026-03-22 10:36:21,828 - ENTRY               | face_id=1cb7513f | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/1cb7513f_10-30-41-117032.jpg
+2026-03-22 10:36:21,828 - ENTRY               | face_id=606fef90 | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/606fef90_10-30-43-335133.jpg
+2026-03-22 10:36:21,828 - EXIT                | face_id=7975a61d | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/7975a61d_10-30-46-214739.jpg
+2026-03-22 10:36:21,828 - EXIT                | face_id=1cb7513f | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/1cb7513f_10-30-46-802742.jpg
+2026-03-22 10:36:21,828 - EXIT                | face_id=1cb7513f | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/1cb7513f_10-30-47-136666.jpg
+2026-03-22 10:36:21,828 - EXIT                | face_id=1cb7513f | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/1cb7513f_10-30-47-440576.jpg
+2026-03-22 10:36:21,829 - EXIT                | face_id=1cb7513f | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/1cb7513f_10-30-47-802417.jpg
+2026-03-22 10:36:21,829 - EXIT                | face_id=1cb7513f | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/1cb7513f_10-30-48-122258.jpg
+2026-03-22 10:36:21,829 - EXIT                | face_id=1cb7513f | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/1cb7513f_10-30-48-421130.jpg
+2026-03-22 10:36:21,829 - EXIT                | face_id=1cb7513f | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/1cb7513f_10-30-48-742445.jpg
+2026-03-22 10:36:21,829 - EXIT                | face_id=242a885a | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/242a885a_10-30-50-739361.jpg
+2026-03-22 10:36:21,829 - EXIT                | face_id=606fef90 | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/606fef90_10-30-51-129193.jpg
+2026-03-22 10:36:21,829 - ENTRY               | face_id=e2895b31 | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/e2895b31_10-30-52-740106.jpg
+2026-03-22 10:36:21,829 - ENTRY               | face_id=d1b70ec4 | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/d1b70ec4_10-30-53-658059.jpg
+2026-03-22 10:36:21,829 - ENTRY               | face_id=583303c8 | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/583303c8_10-30-54-577142.jpg
+2026-03-22 10:36:21,829 - ENTRY               | face_id=05975207 | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/05975207_10-30-55-659662.jpg
+2026-03-22 10:36:21,829 - ENTRY               | face_id=9cc6e8b2 | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9cc6e8b2_10-30-56-791362.jpg
+2026-03-22 10:36:21,829 - ENTRY               | face_id=84c0349a | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/84c0349a_10-31-00-534615.jpg
+2026-03-22 10:36:21,830 - EXIT                | face_id=e2895b31 | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/e2895b31_10-31-05-081746.jpg
+2026-03-22 10:36:21,830 - EXIT                | face_id=d1b70ec4 | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/d1b70ec4_10-31-05-323998.jpg
+2026-03-22 10:36:21,830 - EXIT                | face_id=583303c8 | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/583303c8_10-31-05-565397.jpg
+2026-03-22 10:36:21,830 - EXIT                | face_id=05975207 | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/05975207_10-31-05-675842.jpg
+2026-03-22 10:36:21,830 - EXIT                | face_id=9cc6e8b2 | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9cc6e8b2_10-31-05-684730.jpg
+2026-03-22 10:36:21,830 - EXIT                | face_id=84c0349a | video=record_20250620_191230.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/84c0349a_10-31-05-693515.jpg
+2026-03-22 10:36:21,830 - ENTRY               | face_id=8140f2a8 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/8140f2a8_10-31-07-632227.jpg
+2026-03-22 10:36:21,830 - ENTRY               | face_id=275ca1bb | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/275ca1bb_10-31-08-357936.jpg
+2026-03-22 10:36:21,830 - ENTRY               | face_id=26932746 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/26932746_10-31-09-069489.jpg
+2026-03-22 10:36:21,830 - ENTRY               | face_id=26ab6755 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/26ab6755_10-31-09-804870.jpg
+2026-03-22 10:36:21,830 - ENTRY               | face_id=3a2a6c2a | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/3a2a6c2a_10-31-10-636199.jpg
+2026-03-22 10:36:21,831 - ENTRY               | face_id=8aa37a6b | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/8aa37a6b_10-31-11-480224.jpg
+2026-03-22 10:36:21,831 - ENTRY               | face_id=9498dc1f | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9498dc1f_10-31-12-774542.jpg
+2026-03-22 10:36:21,831 - ENTRY               | face_id=b5e9b9e1 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/b5e9b9e1_10-31-13-495293.jpg
+2026-03-22 10:36:21,831 - ENTRY               | face_id=33f3fc95 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/33f3fc95_10-31-14-209252.jpg
+2026-03-22 10:36:21,831 - ENTRY               | face_id=30bf063a | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/30bf063a_10-31-14-833922.jpg
+2026-03-22 10:36:21,831 - ENTRY               | face_id=9c5a3647 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9c5a3647_10-31-15-893756.jpg
+2026-03-22 10:36:21,831 - ENTRY               | face_id=8aa37a6b | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/8aa37a6b_10-31-19-094213.jpg
+2026-03-22 10:36:21,831 - ENTRY               | face_id=84cc369d | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/84cc369d_10-31-20-070867.jpg
+2026-03-22 10:36:21,831 - ENTRY               | face_id=9c5a3647 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9c5a3647_10-31-20-780464.jpg
+2026-03-22 10:36:21,831 - ENTRY               | face_id=1256673e | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/1256673e_10-31-21-502752.jpg
+2026-03-22 10:36:21,831 - ENTRY               | face_id=9498dc1f | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9498dc1f_10-31-22-627147.jpg
+2026-03-22 10:36:21,832 - ENTRY               | face_id=9498dc1f | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9498dc1f_10-31-23-723189.jpg
+2026-03-22 10:36:21,832 - ENTRY               | face_id=33f3fc95 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/33f3fc95_10-31-24-807293.jpg
+2026-03-22 10:36:21,832 - ENTRY               | face_id=433a8ff8 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/433a8ff8_10-31-25-035210.jpg
+2026-03-22 10:36:21,832 - ENTRY               | face_id=9c5a3647 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9c5a3647_10-31-25-757952.jpg
+2026-03-22 10:36:21,832 - ENTRY               | face_id=8aa37a6b | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/8aa37a6b_10-31-26-841391.jpg
+2026-03-22 10:36:21,832 - ENTRY               | face_id=8140f2a8 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/8140f2a8_10-31-27-552198.jpg
+2026-03-22 10:36:21,832 - ENTRY               | face_id=b98257e3 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/b98257e3_10-31-29-003522.jpg
+2026-03-22 10:36:21,832 - ENTRY               | face_id=6c667ba5 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/6c667ba5_10-31-29-253772.jpg
+2026-03-22 10:36:21,832 - ENTRY               | face_id=d17ce9a0 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/d17ce9a0_10-31-29-488223.jpg
+2026-03-22 10:36:21,832 - ENTRY               | face_id=9c5a3647 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9c5a3647_10-31-30-431887.jpg
+2026-03-22 10:36:21,833 - ENTRY               | face_id=90133abb | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/90133abb_10-31-31-427997.jpg
+2026-03-22 10:36:21,833 - ENTRY               | face_id=7d5f74f6 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/7d5f74f6_10-31-33-107647.jpg
+2026-03-22 10:36:21,833 - ENTRY               | face_id=c3ece093 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/c3ece093_10-31-34-101767.jpg
+2026-03-22 10:36:21,833 - ENTRY               | face_id=2fc15b61 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/2fc15b61_10-31-35-631976.jpg
+2026-03-22 10:36:21,833 - ENTRY               | face_id=9498dc1f | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9498dc1f_10-31-36-365268.jpg
+2026-03-22 10:36:21,833 - ENTRY               | face_id=9c5a3647 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9c5a3647_10-31-37-072839.jpg
+2026-03-22 10:36:21,833 - ENTRY               | face_id=33f3fc95 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/33f3fc95_10-31-38-498895.jpg
+2026-03-22 10:36:21,833 - ENTRY               | face_id=bffa6a40 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/bffa6a40_10-31-39-101683.jpg
+2026-03-22 10:36:21,833 - ENTRY               | face_id=ea191bbf | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/ea191bbf_10-31-40-227278.jpg
+2026-03-22 10:36:21,833 - ENTRY               | face_id=15149dfe | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/15149dfe_10-31-40-933760.jpg
+2026-03-22 10:36:21,833 - ENTRY               | face_id=9d7dc3db | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9d7dc3db_10-31-41-182712.jpg
+2026-03-22 10:36:21,834 - ENTRY               | face_id=59e5c21c | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/59e5c21c_10-31-41-892078.jpg
+2026-03-22 10:36:21,834 - ENTRY               | face_id=33f3fc95 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/33f3fc95_10-31-42-983323.jpg
+2026-03-22 10:36:21,834 - ENTRY               | face_id=4a720081 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4a720081_10-31-43-718134.jpg
+2026-03-22 10:36:21,834 - ENTRY               | face_id=6b1108de | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/6b1108de_10-31-44-335941.jpg
+2026-03-22 10:36:21,834 - ENTRY               | face_id=9498dc1f | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9498dc1f_10-31-45-688211.jpg
+2026-03-22 10:36:21,834 - ENTRY               | face_id=15149dfe | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/15149dfe_10-31-47-472648.jpg
+2026-03-22 10:36:21,834 - ENTRY               | face_id=8aa37a6b | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/8aa37a6b_10-31-48-484194.jpg
+2026-03-22 10:36:21,834 - ENTRY               | face_id=33f3fc95 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/33f3fc95_10-31-49-469662.jpg
+2026-03-22 10:36:21,834 - ENTRY               | face_id=593961cc | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/593961cc_10-31-49-834377.jpg
+2026-03-22 10:36:21,834 - ENTRY               | face_id=8aa37a6b | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/8aa37a6b_10-31-51-098407.jpg
+2026-03-22 10:36:21,834 - ENTRY               | face_id=15149dfe | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/15149dfe_10-31-51-809333.jpg
+2026-03-22 10:36:21,834 - ENTRY               | face_id=9c5a3647 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9c5a3647_10-31-52-518164.jpg
+2026-03-22 10:36:21,835 - ENTRY               | face_id=9498dc1f | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9498dc1f_10-31-53-357304.jpg
+2026-03-22 10:36:21,835 - ENTRY               | face_id=15149dfe | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/15149dfe_10-31-54-495324.jpg
+2026-03-22 10:36:21,835 - ENTRY               | face_id=9498dc1f | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9498dc1f_10-31-55-333016.jpg
+2026-03-22 10:36:21,835 - ENTRY               | face_id=55e8eba0 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/55e8eba0_10-31-56-529766.jpg
+2026-03-22 10:36:21,835 - ENTRY               | face_id=ee265c7f | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/ee265c7f_10-31-56-766494.jpg
+2026-03-22 10:36:21,835 - ENTRY               | face_id=dcc9af2f | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/dcc9af2f_10-31-57-016973.jpg
+2026-03-22 10:36:21,835 - ENTRY               | face_id=0c9a7aaa | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/0c9a7aaa_10-31-57-618516.jpg
+2026-03-22 10:36:21,835 - ENTRY               | face_id=cdbe18cc | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/cdbe18cc_10-31-58-459029.jpg
+2026-03-22 10:36:21,835 - ENTRY               | face_id=4a9559cd | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4a9559cd_10-31-59-068095.jpg
+2026-03-22 10:36:21,835 - ENTRY               | face_id=cbb70c56 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/cbb70c56_10-31-59-307762.jpg
+2026-03-22 10:36:21,835 - ENTRY               | face_id=cdbe18cc | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/cdbe18cc_10-32-00-226103.jpg
+2026-03-22 10:36:21,836 - ENTRY               | face_id=5f460731 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/5f460731_10-32-01-185561.jpg
+2026-03-22 10:36:21,836 - ENTRY               | face_id=9c2281f0 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9c2281f0_10-32-02-824103.jpg
+2026-03-22 10:36:21,836 - ENTRY               | face_id=fd9eca5c | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/fd9eca5c_10-32-03-187854.jpg
+2026-03-22 10:36:21,836 - ENTRY               | face_id=e69956dc | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/e69956dc_10-32-03-559156.jpg
+2026-03-22 10:36:21,836 - ENTRY               | face_id=f4747724 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/f4747724_10-32-05-163898.jpg
+2026-03-22 10:36:21,836 - ENTRY               | face_id=334c2e1a | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/334c2e1a_10-32-05-415513.jpg
+2026-03-22 10:36:21,836 - ENTRY               | face_id=2d46f8e3 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/2d46f8e3_10-32-05-658781.jpg
+2026-03-22 10:36:21,836 - EXIT                | face_id=3a2a6c2a | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/3a2a6c2a_10-32-05-677723.jpg
+2026-03-22 10:36:21,836 - ENTRY               | face_id=4c1d5b6a | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4c1d5b6a_10-32-06-279408.jpg
+2026-03-22 10:36:21,836 - ENTRY               | face_id=7c0f1e93 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/7c0f1e93_10-32-06-532190.jpg
+2026-03-22 10:36:21,836 - ENTRY               | face_id=7a6f097f | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/7a6f097f_10-32-06-770128.jpg
+2026-03-22 10:36:21,836 - ENTRY               | face_id=5dd30f36 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/5dd30f36_10-32-07-870190.jpg
+2026-03-22 10:36:21,837 - ENTRY               | face_id=47c614a5 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/47c614a5_10-32-08-104281.jpg
+2026-03-22 10:36:21,837 - ENTRY               | face_id=6d1d94ee | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/6d1d94ee_10-32-08-342928.jpg
+2026-03-22 10:36:21,837 - EXIT                | face_id=9498dc1f | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9498dc1f_10-32-08-360700.jpg
+2026-03-22 10:36:21,837 - EXIT                | face_id=30bf063a | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/30bf063a_10-32-08-369618.jpg
+2026-03-22 10:36:21,837 - ENTRY               | face_id=f4747724 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/f4747724_10-32-09-465531.jpg
+2026-03-22 10:36:21,837 - ENTRY               | face_id=0c154fb2 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/0c154fb2_10-32-10-194209.jpg
+2026-03-22 10:36:21,837 - EXIT                | face_id=8aa37a6b | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/8aa37a6b_10-32-10-211982.jpg
+2026-03-22 10:36:21,837 - EXIT                | face_id=8140f2a8 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/8140f2a8_10-32-10-589102.jpg
+2026-03-22 10:36:21,837 - ENTRY               | face_id=0c154fb2 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/0c154fb2_10-32-11-768083.jpg
+2026-03-22 10:36:21,837 - EXIT                | face_id=9c5a3647 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9c5a3647_10-32-11-776324.jpg
+2026-03-22 10:36:21,837 - ENTRY               | face_id=9c2281f0 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9c2281f0_10-32-12-870237.jpg
+2026-03-22 10:36:21,838 - ENTRY               | face_id=0c154fb2 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/0c154fb2_10-32-13-935370.jpg
+2026-03-22 10:36:21,838 - EXIT                | face_id=9498dc1f | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9498dc1f_10-32-13-944782.jpg
+2026-03-22 10:36:21,838 - ENTRY               | face_id=0c154fb2 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/0c154fb2_10-32-15-031161.jpg
+2026-03-22 10:36:21,838 - EXIT                | face_id=433a8ff8 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/433a8ff8_10-32-15-042217.jpg
+2026-03-22 10:36:21,838 - ENTRY               | face_id=0c154fb2 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/0c154fb2_10-32-16-568938.jpg
+2026-03-22 10:36:21,838 - ENTRY               | face_id=4ade5760 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4ade5760_10-32-17-759907.jpg
+2026-03-22 10:36:21,838 - EXIT                | face_id=b5e9b9e1 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/b5e9b9e1_10-32-17-775487.jpg
+2026-03-22 10:36:21,838 - ENTRY               | face_id=0c154fb2 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/0c154fb2_10-32-19-352847.jpg
+2026-03-22 10:36:21,838 - EXIT                | face_id=1256673e | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/1256673e_10-32-19-362685.jpg
+2026-03-22 10:36:21,838 - EXIT                | face_id=9498dc1f | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9498dc1f_10-32-19-375578.jpg
+2026-03-22 10:36:21,838 - ENTRY               | face_id=bea99e34 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/bea99e34_10-32-20-773979.jpg
+2026-03-22 10:36:21,839 - EXIT                | face_id=d17ce9a0 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/d17ce9a0_10-32-20-791817.jpg
+2026-03-22 10:36:21,839 - EXIT                | face_id=9c5a3647 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9c5a3647_10-32-20-800383.jpg
+2026-03-22 10:36:21,839 - ENTRY               | face_id=9c385989 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9c385989_10-32-22-010973.jpg
+2026-03-22 10:36:21,839 - ENTRY               | face_id=4f321397 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4f321397_10-32-22-738611.jpg
+2026-03-22 10:36:21,839 - EXIT                | face_id=6c667ba5 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/6c667ba5_10-32-23-108587.jpg
+2026-03-22 10:36:21,839 - EXIT                | face_id=9c5a3647 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9c5a3647_10-32-23-506660.jpg
+2026-03-22 10:36:21,839 - ENTRY               | face_id=bea99e34 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/bea99e34_10-32-24-588643.jpg
+2026-03-22 10:36:21,839 - EXIT                | face_id=2fc15b61 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/2fc15b61_10-32-24-597378.jpg
+2026-03-22 10:36:21,839 - EXIT                | face_id=9498dc1f | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9498dc1f_10-32-24-605433.jpg
+2026-03-22 10:36:21,839 - ENTRY               | face_id=4f321397 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/4f321397_10-32-25-666494.jpg
+2026-03-22 10:36:21,839 - ENTRY               | face_id=9c385989 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/9c385989_10-32-26-490469.jpg
+2026-03-22 10:36:21,840 - EXIT                | face_id=c3ece093 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/c3ece093_10-32-26-499280.jpg
+2026-03-22 10:36:21,840 - ENTRY               | face_id=16b460f8 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/16b460f8_10-32-27-575506.jpg
+2026-03-22 10:36:21,840 - ENTRY               | face_id=956b13bd | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/956b13bd_10-32-28-288652.jpg
+2026-03-22 10:36:21,840 - ENTRY               | face_id=36128611 | video=video_sample1.mp4 | img=/content/face_tracker/logs/entrys/2026-03-22/36128611_10-32-28-544455.jpg
+2026-03-22 10:36:21,840 - EXIT                | face_id=bffa6a40 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/bffa6a40_10-32-28-561012.jpg
+2026-03-22 10:36:21,840 - EXIT                | face_id=275ca1bb | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/275ca1bb_10-32-28-726653.jpg
+2026-03-22 10:36:21,840 - EXIT                | face_id=26932746 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/26932746_10-32-28-736591.jpg
+2026-03-22 10:36:21,840 - EXIT                | face_id=26ab6755 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/26ab6755_10-32-28-744963.jpg
+2026-03-22 10:36:21,840 - EXIT                | face_id=33f3fc95 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/33f3fc95_10-32-28-753654.jpg
+2026-03-22 10:36:21,840 - EXIT                | face_id=9c5a3647 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9c5a3647_10-32-28-764291.jpg
+2026-03-22 10:36:21,840 - EXIT                | face_id=8aa37a6b | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/8aa37a6b_10-32-28-774262.jpg
+2026-03-22 10:36:21,841 - EXIT                | face_id=84cc369d | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/84cc369d_10-32-28-781994.jpg
+2026-03-22 10:36:21,841 - EXIT                | face_id=33f3fc95 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/33f3fc95_10-32-28-791224.jpg
+2026-03-22 10:36:21,841 - EXIT                | face_id=9c5a3647 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9c5a3647_10-32-28-800578.jpg
+2026-03-22 10:36:21,841 - EXIT                | face_id=8aa37a6b | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/8aa37a6b_10-32-28-809174.jpg
+2026-03-22 10:36:21,841 - EXIT                | face_id=8140f2a8 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/8140f2a8_10-32-28-819043.jpg
+2026-03-22 10:36:21,841 - EXIT                | face_id=b98257e3 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/b98257e3_10-32-28-827559.jpg
+2026-03-22 10:36:21,841 - EXIT                | face_id=90133abb | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/90133abb_10-32-28-835151.jpg
+2026-03-22 10:36:21,841 - EXIT                | face_id=7d5f74f6 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/7d5f74f6_10-32-28-843423.jpg
+2026-03-22 10:36:21,841 - EXIT                | face_id=33f3fc95 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/33f3fc95_10-32-28-851845.jpg
+2026-03-22 10:36:21,841 - EXIT                | face_id=ea191bbf | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/ea191bbf_10-32-28-860162.jpg
+2026-03-22 10:36:21,841 - EXIT                | face_id=15149dfe | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/15149dfe_10-32-28-869041.jpg
+2026-03-22 10:36:21,842 - EXIT                | face_id=9d7dc3db | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9d7dc3db_10-32-28-877313.jpg
+2026-03-22 10:36:21,842 - EXIT                | face_id=59e5c21c | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/59e5c21c_10-32-28-886322.jpg
+2026-03-22 10:36:21,842 - EXIT                | face_id=33f3fc95 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/33f3fc95_10-32-28-896901.jpg
+2026-03-22 10:36:21,842 - EXIT                | face_id=4a720081 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4a720081_10-32-28-905640.jpg
+2026-03-22 10:36:21,842 - EXIT                | face_id=6b1108de | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/6b1108de_10-32-28-913738.jpg
+2026-03-22 10:36:21,842 - EXIT                | face_id=9498dc1f | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9498dc1f_10-32-28-921968.jpg
+2026-03-22 10:36:21,842 - EXIT                | face_id=15149dfe | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/15149dfe_10-32-28-929335.jpg
+2026-03-22 10:36:21,842 - EXIT                | face_id=8aa37a6b | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/8aa37a6b_10-32-28-937040.jpg
+2026-03-22 10:36:21,842 - EXIT                | face_id=33f3fc95 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/33f3fc95_10-32-28-944327.jpg
+2026-03-22 10:36:21,842 - EXIT                | face_id=593961cc | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/593961cc_10-32-28-951595.jpg
+2026-03-22 10:36:21,842 - EXIT                | face_id=8aa37a6b | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/8aa37a6b_10-32-28-959710.jpg
+2026-03-22 10:36:21,843 - EXIT                | face_id=15149dfe | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/15149dfe_10-32-28-968676.jpg
+2026-03-22 10:36:21,843 - EXIT                | face_id=9c5a3647 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9c5a3647_10-32-28-977605.jpg
+2026-03-22 10:36:21,843 - EXIT                | face_id=9498dc1f | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9498dc1f_10-32-28-986617.jpg
+2026-03-22 10:36:21,843 - EXIT                | face_id=15149dfe | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/15149dfe_10-32-28-995204.jpg
+2026-03-22 10:36:21,843 - EXIT                | face_id=9498dc1f | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9498dc1f_10-32-29-004333.jpg
+2026-03-22 10:36:21,843 - EXIT                | face_id=55e8eba0 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/55e8eba0_10-32-29-012933.jpg
+2026-03-22 10:36:21,843 - EXIT                | face_id=ee265c7f | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/ee265c7f_10-32-29-020394.jpg
+2026-03-22 10:36:21,843 - EXIT                | face_id=dcc9af2f | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/dcc9af2f_10-32-29-029262.jpg
+2026-03-22 10:36:21,843 - EXIT                | face_id=0c9a7aaa | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/0c9a7aaa_10-32-29-036828.jpg
+2026-03-22 10:36:21,843 - EXIT                | face_id=cdbe18cc | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/cdbe18cc_10-32-29-045214.jpg
+2026-03-22 10:36:21,843 - EXIT                | face_id=4a9559cd | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4a9559cd_10-32-29-054513.jpg
+2026-03-22 10:36:21,844 - EXIT                | face_id=cbb70c56 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/cbb70c56_10-32-29-063563.jpg
+2026-03-22 10:36:21,844 - EXIT                | face_id=cdbe18cc | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/cdbe18cc_10-32-29-072938.jpg
+2026-03-22 10:36:21,844 - EXIT                | face_id=5f460731 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/5f460731_10-32-29-080730.jpg
+2026-03-22 10:36:21,844 - EXIT                | face_id=9c2281f0 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9c2281f0_10-32-29-088959.jpg
+2026-03-22 10:36:21,844 - EXIT                | face_id=fd9eca5c | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/fd9eca5c_10-32-29-101215.jpg
+2026-03-22 10:36:21,844 - EXIT                | face_id=e69956dc | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/e69956dc_10-32-29-109189.jpg
+2026-03-22 10:36:21,844 - EXIT                | face_id=f4747724 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/f4747724_10-32-29-118054.jpg
+2026-03-22 10:36:21,844 - EXIT                | face_id=334c2e1a | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/334c2e1a_10-32-29-127099.jpg
+2026-03-22 10:36:21,844 - EXIT                | face_id=2d46f8e3 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/2d46f8e3_10-32-29-134753.jpg
+2026-03-22 10:36:21,844 - EXIT                | face_id=4c1d5b6a | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4c1d5b6a_10-32-29-143074.jpg
+2026-03-22 10:36:21,844 - EXIT                | face_id=7c0f1e93 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/7c0f1e93_10-32-29-153057.jpg
+2026-03-22 10:36:21,844 - EXIT                | face_id=7a6f097f | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/7a6f097f_10-32-29-161031.jpg
+2026-03-22 10:36:21,845 - EXIT                | face_id=5dd30f36 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/5dd30f36_10-32-29-170095.jpg
+2026-03-22 10:36:21,845 - EXIT                | face_id=47c614a5 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/47c614a5_10-32-29-179566.jpg
+2026-03-22 10:36:21,845 - EXIT                | face_id=6d1d94ee | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/6d1d94ee_10-32-29-187262.jpg
+2026-03-22 10:36:21,845 - EXIT                | face_id=f4747724 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/f4747724_10-32-29-196073.jpg
+2026-03-22 10:36:21,845 - EXIT                | face_id=0c154fb2 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/0c154fb2_10-32-29-203990.jpg
+2026-03-22 10:36:21,845 - EXIT                | face_id=0c154fb2 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/0c154fb2_10-32-29-212707.jpg
+2026-03-22 10:36:21,845 - EXIT                | face_id=9c2281f0 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9c2281f0_10-32-29-220702.jpg
+2026-03-22 10:36:21,845 - EXIT                | face_id=0c154fb2 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/0c154fb2_10-32-29-229146.jpg
+2026-03-22 10:36:21,845 - EXIT                | face_id=0c154fb2 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/0c154fb2_10-32-29-236536.jpg
+2026-03-22 10:36:21,845 - EXIT                | face_id=0c154fb2 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/0c154fb2_10-32-29-244537.jpg
+2026-03-22 10:36:21,845 - EXIT                | face_id=4ade5760 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4ade5760_10-32-29-252043.jpg
+2026-03-22 10:36:21,846 - EXIT                | face_id=0c154fb2 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/0c154fb2_10-32-29-259939.jpg
+2026-03-22 10:36:21,846 - EXIT                | face_id=bea99e34 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/bea99e34_10-32-29-272196.jpg
+2026-03-22 10:36:21,846 - EXIT                | face_id=9c385989 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9c385989_10-32-29-279767.jpg
+2026-03-22 10:36:21,846 - EXIT                | face_id=4f321397 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4f321397_10-32-29-287601.jpg
+2026-03-22 10:36:21,846 - EXIT                | face_id=bea99e34 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/bea99e34_10-32-29-295831.jpg
+2026-03-22 10:36:21,846 - EXIT                | face_id=4f321397 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/4f321397_10-32-29-303875.jpg
+2026-03-22 10:36:21,846 - EXIT                | face_id=9c385989 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/9c385989_10-32-29-312482.jpg
+2026-03-22 10:36:21,846 - EXIT                | face_id=16b460f8 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/16b460f8_10-32-29-321071.jpg
+2026-03-22 10:36:21,846 - EXIT                | face_id=956b13bd | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/956b13bd_10-32-29-329700.jpg
+2026-03-22 10:36:21,846 - EXIT                | face_id=36128611 | video=video_sample1.mp4 | img=/content/face_tracker/logs/exits/2026-03-22/36128611_10-32-29-337662.jpg
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=05975207
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=0871e8fc
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=0c154fb2
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=0da6c919
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=11b39554
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=1256673e
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=15149dfe
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=16b460f8
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=174638f4
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=1b93b93e
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=1cb7513f
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=1ccb7ddd
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=2034a560
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=242a885a
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=24987ecb
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=26932746
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=26ab6755
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=275ca1bb
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=2f75a64f
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=2fc15b61
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=32354092
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=3370acac
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=33f3fc95
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=35668fd8
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=35952878
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=3747bcd6
+2026-03-22 10:36:21,847 - EMBEDDING_GENERATED | face_id=3971c77f
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=39f49177
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=3a2a6c2a
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=3c6a269e
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=420c4206
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=429cc017
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=43e5be42
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=44b264f0
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=4660a444
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=48e82e85
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=4a720081
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=4ade5760
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=4b749e4c
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=4d311fa3
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=4eb6ea2e
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=4f321397
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=53a0de15
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=55e8eba0
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=57e05757
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=583303c8
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=59e5c21c
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=5dd1ee60
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=5dd30f36
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=5f9441de
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=61177a2e
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=63bcdc5f
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=663387a9
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=6726ad63
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=69c8145c
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=6b7ebb60
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=6c896ce1
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=6dbe6645
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=6f7f9d51
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=72ae65a6
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=73cce3af
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=7688420e
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=77e0e312
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=78f31120
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=7975a61d
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=7ab23b3d
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=7adcb44f
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=7ba84fb5
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=7d43602a
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=7d5f74f6
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=8140f2a8
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=8243f48f
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=82bad46d
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=842d0d50
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=84c0349a
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=84cc369d
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=859d8049
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=8aa37a6b
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=8b0b49d2
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=8dbaf736
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=90133abb
+2026-03-22 10:36:21,848 - EMBEDDING_GENERATED | face_id=90913ea7
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=92f16944
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=9498dc1f
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=94bb8cef
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=956b13bd
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=9583feb3
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=9b54f633
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=9c2281f0
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=9c385989
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=9c5a3647
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=9cc6e8b2
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=9d5893ad
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=a09f75e6
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=a4ce6865
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=a728b8b0
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=a74a8082
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=a7cfd219
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=abdf60fe
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=ae39d21b
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=b22515a3
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=b2f24415
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=b5e9b9e1
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=b6172ff7
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=b699beb1
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=b6a1a24d
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=b84b72f7
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=b98257e3
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=bafdd144
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=bea99e34
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=c20c0532
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=c3d531a6
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=c82268a8
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=caf1dacc
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=cdbe18cc
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=ce0c9b40
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=d1b70ec4
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=d20d9f00
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=d67cdfdc
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=d6fce603
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=d7dd0e26
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=da723d1f
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=dc2a9f26
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=deb691e7
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=dfc05b47
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=dfe6ec73
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=e25adba3
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=e2895b31
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=e310b810
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=ea191bbf
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=ec77b2f5
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=ecd295da
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=f4747724
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=f75b6e3d
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=f771c06a
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=fad78158
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=fb45ec96
+2026-03-22 10:36:21,849 - EMBEDDING_GENERATED | face_id=fc026e2d
